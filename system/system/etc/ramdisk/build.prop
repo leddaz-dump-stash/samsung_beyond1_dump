@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=beyond1
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-G973F
+ro.product.bootimage.name=beyond1ltexx
+ro.bootimage.build.date=Thu Jul 21 14:55:22 KST 2022
+ro.bootimage.build.date.utc=1658382922
+ro.bootimage.build.fingerprint=samsung/beyond1ltexx/beyond1:12/SP1A.210812.016/G973FXXUFHVG4:user/test-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=G973FXXUFHVG4
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
