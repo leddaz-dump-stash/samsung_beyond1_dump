@@ -1,0 +1,18 @@
+{
+  "update_version": 1,
+  "note": "Enable IMS for We Egypt",
+  "imsswitch_update":
+  {
+    "defaultswitch": {
+    },
+    "imsswitch": [
+      {
+        "mnoname": "We_EG",
+        "enableIms": true,
+        "enableServiceVolte": true,
+        "enableServiceVilte": true,
+        "enableServiceSmsip": true
+      }
+    ]
+  }
+}
